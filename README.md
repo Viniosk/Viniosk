@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 Desenvolvedor e Entusiasta de Tecnologia<br>- 💼 Atuação: Projetos da faculdade com desenvolvimento back-end e front-end e idealização e prototipação de software.   <br>- 🌐 Tecnologias: Experiência em Google Cloud Platform, VirtualBox, Vue.js no front-end, desenvolvimento back-end em **C# e .NET** e contato com iOnic.<br>- 📚 Habilidades: Configuração de máquinas virtuais, automação de processos, boa oratória para apresentação de projetos e desenvolvimento para materiais de apresentação.  <br><br>📫 Vamos construir algo incrível juntos?! 🚀</p>
+<p align="left">👨‍💻 Desenvolvedor e Entusiasta de Tecnologia<br>- 💼 Atuação: Projetos da faculdade com desenvolvimento back-end e front-end e idealização e prototipação de software.   <br>- 🌐 Tecnologias: Experiência em Google Cloud Platform, VirtualBox, Vue.js no front-end, desenvolvimento back-end em C# e .NET e contato com iOnic.<br>- 📚 Habilidades: Configuração de máquinas virtuais, automação de processos, boa oratória para apresentação de projetos e desenvolvimento para materiais de apresentação.  <br><br>📫 Vamos construir algo incrível juntos?! 🚀</p>
 
 ###
 
@@ -35,10 +35,7 @@
   <a href="https://www.instagram.com/viniciusandradel_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="viniciusdea.lima" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="vinioslima124@gmail.com" target="_blank">
+  <a href="mailto:vinioslima124@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-de-andrade-lima-272630285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
