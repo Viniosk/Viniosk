@@ -2,7 +2,14 @@
 
 ###
 
-<p align="left">👨‍💻 Desenvolvedor e Entusiasta de Tecnologia<br>- 💼 Atuação: Projetos da faculdade com desenvolvimento back-end e front-end e idealização e prototipação de software.   <br>- 🌐 Tecnologias: Experiência em Google Cloud Platform, VirtualBox, Vue.js no front-end, desenvolvimento back-end em C# e .NET e contato com iOnic.<br>- 📚 Habilidades: Configuração de máquinas virtuais, automação de processos, boa oratória para apresentação de projetos e desenvolvimento para materiais de apresentação.  <br><br>📫 Vamos construir algo incrível juntos?! 🚀</p>
+<p align="left">
+  👨‍💻 Desenvolvedor e Entusiasta de Tecnologia<br>
+  - 💼 Atuação: Desenvolvimento de sistemas de gerenciamento financeiro e automação de processos corporativos.<br>
+  - 🌐 Tecnologias: Experiência em Google Cloud Platform, PostgreSQL, Power Apps, VirtualBox, Vue.js no front-end, desenvolvimento back-end em C# e .NET, FastAPI em Python e contato com Ionic.<br>
+  - 📚 Habilidades: Criação de APIs para integração de sistemas, consultas SQL otimizadas, análise de dados com Pandas, configuração de máquinas virtuais, automação de fluxos financeiros, além de boa oratória para apresentação de projetos e desenvolvimento de materiais de apoio.<br>
+  <br>
+  📫 Vamos construir algo incrível juntos?! 🚀
+</p>
 
 ###
 
@@ -27,6 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" alt="ionic logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
 ###
